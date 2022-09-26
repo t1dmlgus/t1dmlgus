@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+안녕하세요! 웹 백엔드 개발자 이의현입니다.
+
+## Stack
+
+
+
+
+⚡ **도메인 주도 개발**을 통해 객체 간 협력관계를 구성 <BR>
+🌱 1일 1커밋 생활패턴 <BR>
+📫 프로젝트, 스터디
+
+
+## Project
+
+- [order-mvp2](https://github.com/t1dmlgus/order-mvp2)
+- [2022-daangnClone](https://github.com/t1dmlgus/2022-daangnClone)
+- [MSA-t1dmlgus](https://github.com/orgs/t1dmlgus-MSA/repositories)
+
