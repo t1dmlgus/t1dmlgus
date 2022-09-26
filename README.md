@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### Project
 
-- [order-mvp2](https://github.com/t1dmlgus/order-mvp2)
+- [Order-mvp2](https://github.com/t1dmlgus/order-mvp2)
 - [2022-daangnClone](https://github.com/t1dmlgus/2022-daangnClone)
 - [MSA-t1dmlgus](https://github.com/orgs/t1dmlgus-MSA/repositories)
 
